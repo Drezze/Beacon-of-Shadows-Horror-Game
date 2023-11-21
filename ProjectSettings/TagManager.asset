@@ -4,21 +4,22 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Ladder
   - CinemachineTarget
   - lb_groundTarget
-  - lb_perchTarget
   - lb_bird
+  - lb_perchTarget
   - NPC
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - PostProcessing
   - Water
   - UI
-  - Cloud
-  - 
+  - Hands
   - InteractRaycast
+  - 
   - 
   - 
   - 
